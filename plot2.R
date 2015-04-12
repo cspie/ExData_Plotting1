@@ -1,4 +1,3 @@
-
 plot2<-function() {
   setwd("d:/Coursera/Module04/CourseProject01/Power")
   ##Read data
